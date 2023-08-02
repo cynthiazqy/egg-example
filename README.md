@@ -1,4 +1,4 @@
-# hackernews-tegg
+# egg-example
 
 [Hacker News](https://news.ycombinator.com/) showcase using [tegg](https://github.com/eggjs/tegg)
 
